@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   
   ### :envelope: Mail :envelope:</br>
-  <img src="https://img.shields.io/badge/| gks7654@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></br></br>
+  <img src="https://img.shields.io/badge/| gks7654@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></br></br>
 
   # Most Language :computer:</br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanghyunhann&layout=compact"/>
